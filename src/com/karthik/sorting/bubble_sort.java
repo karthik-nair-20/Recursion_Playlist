@@ -4,30 +4,31 @@ import java.util.Arrays;
 
 public class bubble_sort {
     public static void main(String[] args) {
-        int arr[] = {4,3,2,1};
+        int arr[] = {6,5,7,4,3,2,1};
         bubble(arr,arr.length-1,0);
         System.out.println(Arrays.toString(arr));
 
     }
-    public static void bubble(int[] arr,int start,int end)
+    public static void bubble(int[] arr,int end,int start)
     {
-        if(start < 1)
+        //base conditions
+        if(end < 1)
         {
             return;
         }
-        if(end < start)
+        if(start < end)
         {
-            if(arr[end] > arr[end+1])
+            if(arr[start] > arr[start+1])
             {
                 //swap
-                int temp = arr[end];
-                arr[end] = arr[end+1];
-                arr[end+1] = temp;
+                int temp = arr[start];
+                arr[start] = arr[start+1];
+                arr[start+1] = temp;
             }
-            bubble(arr,start,end+1);
+            bubble(arr,end,start+1);
         }
         else{
-            bubble(arr,start-1,0);
+            bubble(arr,end-1,0);
         }
     }
 }
