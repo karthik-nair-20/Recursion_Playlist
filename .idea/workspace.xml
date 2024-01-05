@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="918f5298-853c-4152-a7e1-bd724d64b73e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/sorting/merge_sort_inplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/subset_string_subseq/que1_remove_a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/subset_string_subseq/que1v2_remove_a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/subset_string_subseq/ques2_skip_str.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/subset_string_subseq/subseq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthiknair/Desktop/Kunal_java/Lectures/Recursion/Recursion_V2/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ques2_skip_str">
+  <component name="RunManager" selected="Application.subseq">
     <configuration name="que1_remove_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.karthik.subset_string_subseq.que1_remove_a" />
       <module name="Recursion_V2" />
@@ -96,8 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="subseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.subset_string_subseq.subseq" />
+      <module name="Recursion_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.subset_string_subseq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subseq" />
         <item itemvalue="Application.ques2_skip_str" />
         <item itemvalue="Application.que1v2_remove_a" />
         <item itemvalue="Application.que1_remove_a" />
@@ -138,6 +149,16 @@
           <url>file://$PROJECT_DIR$/src/com/karthik/sorting/merge_sort_inplace.java</url>
           <line>20</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/subset_string_subseq/subseq.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/subset_string_subseq/subseq.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/karthik/patterns/Triangle_2.java</url>
