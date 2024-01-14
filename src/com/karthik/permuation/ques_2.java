@@ -2,7 +2,7 @@ package com.karthik.permuation;
 
 public class ques_2 {
     public static void main(String[] args) {
-        System.out.println(permuations1("","abc",0));
+        System.out.println(permuations("","abc"));
 
     }
     public static int permuations(String p, String up)
