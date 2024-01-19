@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="918f5298-853c-4152-a7e1-bd724d64b73e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/Ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/ques3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/ques4_pad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/ques5_dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/permuation/PhonePad_Ques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/karthik/permuation/dicePblm_ques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze4_quesAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/karthik/permuation/ques_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/karthik/permuation/ques_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +47,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthiknair/Desktop/Kunal_java/Lectures/Recursion/Recursion_V2/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ques5_dice">
-    <configuration name="PhonePad_Ques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.karthik.permuation.PhonePad_Ques" />
+  <component name="RunManager" selected="Application.maze_ques7">
+    <configuration name="maze4_quesAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.backtracking.maze4_quesAL" />
       <module name="Recursion_V2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.karthik.permuation.*" />
+          <option name="PATTERN" value="com.karthik.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.karthik.ReturnArray_pp.ques2" />
+    <configuration name="maze_ques4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.backtracking.maze_ques4" />
       <module name="Recursion_V2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.karthik.ReturnArray_pp.*" />
+          <option name="PATTERN" value="com.karthik.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.karthik.ReturnArray_pp.ques3" />
+    <configuration name="maze_ques5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.backtracking.maze_ques5" />
       <module name="Recursion_V2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.karthik.ReturnArray_pp.*" />
+          <option name="PATTERN" value="com.karthik.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques4_pad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.karthik.ReturnArray_pp.ques4_pad" />
+    <configuration name="maze_ques6All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.backtracking.maze_ques6All" />
       <module name="Recursion_V2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.karthik.ReturnArray_pp.*" />
+          <option name="PATTERN" value="com.karthik.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques5_dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.karthik.ReturnArray_pp.ques5_dice" />
+    <configuration name="maze_ques7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.karthik.backtracking.maze_ques7" />
       <module name="Recursion_V2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.karthik.ReturnArray_pp.*" />
+          <option name="PATTERN" value="com.karthik.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ques5_dice" />
-        <item itemvalue="Application.ques4_pad" />
-        <item itemvalue="Application.PhonePad_Ques" />
-        <item itemvalue="Application.ques3" />
-        <item itemvalue="Application.ques2" />
+        <item itemvalue="Application.maze_ques7" />
+        <item itemvalue="Application.maze_ques6All" />
+        <item itemvalue="Application.maze_ques5" />
+        <item itemvalue="Application.maze4_quesAL" />
+        <item itemvalue="Application.maze_ques4" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +181,46 @@
           <url>file://$PROJECT_DIR$/src/com/karthik/ReturnArray_pp/ques4_pad.java</url>
           <line>20</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques3.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/karthik/patterns/Triangle_2.java</url>
@@ -280,6 +320,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze.java</url>
+          <line>3</line>
+          <properties class="com.karthik.backtracking.maze" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques3.java</url>
+          <line>9</line>
+          <properties class="com.karthik.backtracking.maze_ques3" method="maze3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques6All.java</url>
+          <line>9</line>
+          <properties class="com.karthik.backtracking.maze_ques6All" method="maze6">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/karthik/backtracking/maze_ques7.java</url>
+          <line>5</line>
+          <properties class="com.karthik.backtracking.maze_ques7" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
